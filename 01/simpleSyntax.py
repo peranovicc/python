@@ -63,4 +63,6 @@ print(len(some_long_string)) # there is no .length / .len
 print(some_long_string.upper())
 print(some_long_string.lower())
 
+# replace, split
+
 
